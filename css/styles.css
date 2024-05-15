@@ -502,6 +502,7 @@ letter-spacing: 0.02em;
 
 .form-footer {
 display: flex;
+gap: 24px;
 
 }
 .label-footer {
