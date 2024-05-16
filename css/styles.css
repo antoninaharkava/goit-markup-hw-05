@@ -509,6 +509,7 @@ gap: 24px;
 
 }
 .input-footer {
+    color: #ffffff; 
     font-size: 12px; 
     line-height: 2;
     letter-spacing: 0.04em; 
@@ -527,7 +528,7 @@ border-color: #4d5ae5;
 }
 
 .input-footer::placeholder{
-    color #ffffff;
+    color: #ffffff;
 }
 
 .footer-btn {
