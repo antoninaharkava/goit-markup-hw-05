@@ -536,7 +536,7 @@ border-color: #4d5ae5;
     align-items: center;
     justify-content: center;
 border: none;
-    gap: 16px;
+    
     border-radius: 4px;
 padding: 8px 24px;
 min-width: 165px;
@@ -549,7 +549,7 @@ line-height: 1.5;
 letter-spacing: 0.04em;
 text-align: center;
 color: #ffffff;
-margin-left: 24px;
+
 transition: color 250ms linear, background-color 250ms linear;
 }
 
@@ -740,6 +740,9 @@ color: #404bbf;
     }
     .form-review-checkbox-div{
         margin-bottom: 24px;
+    }
+    .visually-hidden{
+        display: none;
     }
     .form-review-checkbox-span{
         display: inline-flex;
