@@ -583,10 +583,13 @@ color: #404bbf;
     display: flex;
     justify-content: center;
     align-items: center;
-  
-
 }
 
+.modal-overlay.is-open{
+    opacity: 1;
+    visibility: visible;
+  
+}
 
 .modal{
     position: absolute;
